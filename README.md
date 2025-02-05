@@ -22,7 +22,7 @@ Farsi Invoice Generator Application is a Python-based application designed to ma
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/InvoiceApp.git
+   git clone https://github.com/khashayarkeivanfar/InvoiceApp.git
    ```
 2. Navigate to the project directory:
    ```bash
